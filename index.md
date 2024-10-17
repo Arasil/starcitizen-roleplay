@@ -1,5 +1,5 @@
 ---
 layout: custom
+include:
+ - navigation.md
 ---
-
-# Index
