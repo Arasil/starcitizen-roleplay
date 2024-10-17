@@ -12,4 +12,6 @@ title: Star Citizen Roleplay
 description: Star Citizen Roleplay Character Sheet
 
 include:
-  - README.md
+  - src/header.md
+  - src/main.md
+  - src/footer.md
