@@ -2,10 +2,7 @@
 layout: custom
 ---
 
----
-[zurück](./about.html)
-
----
+{% include_relative navigation.md %}
 
 # Eltern
 
